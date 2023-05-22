@@ -13,9 +13,9 @@ I'm a third-year computer science student at VIT who is interested about creatin
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-jha1611&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@AdarshJ25972196)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<!-- Add the following code snippet -->
+[![](https://gtce.itsvg.in/api?username=@AdarshJ25972196&tweet=true)](https://twitter.com/@AdarshJ25972196)
 
----
 [![](https://visitcount.itsvg.in/api?id=adarsh-jha1611&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
