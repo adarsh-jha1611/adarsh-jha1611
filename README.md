@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 I'm a third-year computer science student at VIT who is interested about creating websites that are both functional and appealing to the eye.
 
 
