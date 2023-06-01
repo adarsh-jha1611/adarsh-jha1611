@@ -2,7 +2,7 @@
 I'm a final-year computer science student at VIT 🎓 who is interested about creating websites that are both functional and appealing to the eye.
 
 
-## 🌐 Socials :
+## 🌐 Connect with me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-jha-2213601ab/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AdarshJ25972196) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adarsh_jha1611/)
 
 # 💻 Tech Stack :
