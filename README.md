@@ -1,4 +1,4 @@
-# Hi 👋🏻, I'm Adarsh Jha :
+# He There! 👋🏻, I'm Adarsh Jha :
 I'm a final-year computer science student at VIT 🎓 who is interested about creating websites that are both functional and appealing to the eye.
 
 
