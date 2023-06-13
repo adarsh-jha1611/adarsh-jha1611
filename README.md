@@ -1,8 +1,9 @@
-# Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36">, I'm Adarsh Jha :
+# Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36">, I'm Adarsh Jha, 
 I'm a final-year computer science student at VIT 🎓, who is interested about creating websites that are both functional and appealing to the eye.
 
 
 ## 🌐 Connect with me :
+<a href="mailto:adarsh.jha1611@gmail.com"><img align="center" src="https://img.icons8.com/doodle/50/000000/gmail.png" alt="Gmail" width="42" height="42"/></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-jha-2213601ab/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AdarshJ25972196) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adarsh_jha1611/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23F89F1B.svg?logo=leetcode&logoColor=white)](https://leetcode.com/adarsh_jha1611/)
 
 # 💻 Tech Stack :
