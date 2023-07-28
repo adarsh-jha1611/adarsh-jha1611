@@ -1,5 +1,5 @@
 # Hey ! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36">... I'm Adarsh Jha, 
-I'm a final-year computer science student at VIT 🎓, who is interested about creating websites that are both functional and appealing to the eye.
+I'm a final-year computer science student at VIT 🎓, who is interested about creating websites that are both functional and appealing to the eye. 
 
 
 ## 🌐 Connect with me :
