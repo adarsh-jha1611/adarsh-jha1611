@@ -10,9 +10,14 @@ I'm a final-year computer science student at VIT 🎓, who is interested about c
 
 
 
-## Connect with me :
-<a href="mailto:adarsh.jha1611@gmail.com"><img align="center" src="https://img.icons8.com/doodle/50/000000/gmail.png" alt="Gmail" width="42" height="42"/></a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-jha-2213601ab/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AdarshJ25972196) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adarsh_jha1611/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23F89F1B.svg?logo=leetcode&logoColor=white)](https://leetcode.com/adarsh_jha1611/)
+## Connect with me:
+
+[<img align="left" alt="Gmail" width="42" height="42" src="https://img.icons8.com/doodle/48/000000/gmail.png" />](mailto:adarsh.jha1611@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-jha-2213601ab/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AdarshJ25972196)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adarsh_jha1611/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23F89F1B.svg?logo=leetcode&logoColor=white)](https://leetcode.com/adarsh_jha1611/)
+
 
 # Tech Stack :
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
