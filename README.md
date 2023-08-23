@@ -12,9 +12,12 @@ I'm a final-year computer science student at VIT 🎓, who is interested about c
 
 
 # 📊 GitHub Stats :
-<!-- ![](https://github-readme-stats.vercel.app/api?username=adarsh-jha1611&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adarsh-jha1611&theme=react&hide_border=true)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-jha1611&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<p align = "center">
+  
+[![Adarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adarsh-jha1611&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</p>
 
 
 
