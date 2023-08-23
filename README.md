@@ -1,7 +1,13 @@
 <h1 align="center"> Hey ! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36">... I'm Adarsh Jha ⚡️ </h1>
 I'm a final-year computer science student at VIT 🎓, who is interested about creating websites that are both functional and appealing to the eye.  
 <img align="center" src="aadi.png" alt="aadi" width="100%" />
-<p align="center"> 
+<style>
+  .shining-grey {
+    color: #888888; /* Shining Grey Color */
+    text-shadow: 0 0 10px #FFFFFF, 0 0 20px #FFFFFF, 0 0 30px #FFFFFF, 0 0 40px #FFFFFF, 0 0 50px #FFFFFF, 0 0 60px #FFFFFF, 0 0 70px #FFFFFF, 0 0 80px #FFFFFF;
+  }
+</style>
+<p align="center" class="shining-grey"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/adarsh-jha1611/count.svg" />
 </p>
