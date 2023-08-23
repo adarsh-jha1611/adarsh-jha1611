@@ -3,7 +3,6 @@ I'm a final-year computer science student at VIT 🎓, who is interested about c
 <img align="center" src="aadi.png" alt="aadi" width="100%" />
 
 <p align="center">
-  <span style="color: #888888; text-shadow: 0 0 10px #FFFFFF, 0 0 20px #FFFFFF, 0 0 30px #FFFFFF, 0 0 40px #FFFFFF, 0 0 50px #FFFFFF, 0 0 60px #FFFFFF, 0 0 70px #FFFFFF, 0 0 80px #FFFFFF;">
     Visitors count<br>
     <img src="https://profile-counter.glitch.me/adarsh-jha1611/count.svg" />
   </span>
