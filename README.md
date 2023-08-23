@@ -1,4 +1,4 @@
-<h1 align="center"> Hey ! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36">... I'm Adarsh Jha, </h1>
+<h1 align="center"> Hey ! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36">... I'm Adarsh Jha ⚡️ </h1>
 I'm a final-year computer science student at VIT 🎓, who is interested about creating websites that are both functional and appealing to the eye.  
 <img align="center" src="github.png" alt="darpanarayan bahadur" width="100%" />
 <p align="center"> 
