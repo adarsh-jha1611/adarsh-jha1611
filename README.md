@@ -13,6 +13,13 @@ I'm a final-year computer science student at VIT 🎓, who is interested about c
 
 # 📊 GitHub Stats :
 
+<p align="center">
+  
+  ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh-jha1611&count_private=true&show_icons=true&theme=vision-friendly-dark&line_height=40)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-jha1611&hide=html,css&theme=vision-friendly-dark&count_private=true&line_height=40)
+
+</p>
+
 <p align = "center">
   
 [![Adarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adarsh-jha1611&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
