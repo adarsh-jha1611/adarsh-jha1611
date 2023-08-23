@@ -16,7 +16,7 @@ I'm a final-year computer science student at VIT 🎓, who is interested about c
 ## Github Streak :
 
 <p align = "center">
-  <img src = "https://streak-stats.demolab.com?user=AnmolVerma404&theme=dark">
+  <img src = "https://streak-stats.demolab.com?user=adarsh-jha1611&theme=dark">
 </p>
 
 # GitHub Stats :
