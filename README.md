@@ -16,7 +16,7 @@
 
 ## Connect with me:
 
-[Twitter/Adarsh Jha](https://twitter.com/@AdarshJ25972196) &bullet; [LinkedIn/sehgalyash](https://www.linkedin.com/in/adarsh-jha-2213601ab/) &bullet; [Instagram/Adarsh Jha](https://www.instagram.com/adarsh_jha1611/) &bullet; [Website/adarshjha.com](https://adarsh-portfolio.pages.dev/)
+[Twitter/Adarsh Jha](https://twitter.com/@AdarshJ25972196) &bullet; [LinkedIn/Adarsh](https://www.linkedin.com/in/adarsh-jha-2213601ab/) &bullet; [Instagram/Adarsh Jha](https://www.instagram.com/adarsh_jha1611/) &bullet; [Website/adarshjha.com](https://adarsh-portfolio.pages.dev/)
 
 [<img align="left" alt="Gmail" width="42" height="42" src="https://img.icons8.com/doodle/48/000000/gmail.png"/>](mailto:adarsh.jha1611@gmail.com)
 
