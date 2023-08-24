@@ -18,7 +18,7 @@
 
 [Twitter/yashsehgaldev](https://twitter.com/yashsehgaldev) &bullet; [LinkedIn/sehgalyash](https://linkedin.com/in/sehgalyash) &bullet; [Instagram/sehgalyash_](https://instagram.com/sehgalyash_) &bullet; [Website/yashsehgal.com](https://yashsehgal.com) &bullet; [Peerlist/yashsehgaldev](https://peerlist.io/yashsehgaldev) &bullet; [Meetings at cal.com/yashsehgal](https://cal.com/yashsehgal)
 
-[<img align="left" alt="Gmail" width="42" height="42" src="https://icons8.com/icon/P7UIlhbpWzZm/gmail"/>](mailto:adarsh.jha1611@gmail.com)
+[<img align="left" alt="Gmail" width="42" height="42" src="https://img.icons8.com/doodle/48/000000/gmail.png"/>](mailto:adarsh.jha1611@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-jha-2213601ab/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AdarshJ25972196)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adarsh_jha1611/)
