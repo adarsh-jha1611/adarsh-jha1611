@@ -16,7 +16,7 @@
 ## Connect with me:  
 
 <a href="mailto:adarsh.jha1611@gmail.com">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.svg" alt="gmail-new"/>
 </a>
 <a href="https://www.linkedin.com/in/adarsh-jha-2213601ab/">
   <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
