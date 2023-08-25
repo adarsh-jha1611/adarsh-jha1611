@@ -38,7 +38,7 @@
 </p>
 
 
-## Connect with me: [<img align="left" alt="Gmail" width="22" height="22" src="https://img.icons8.com/doodle/48/000000/gmail.png"/>](mailto:adarsh.jha1611@gmail.com) 
+## Connect with me: [<img align="left" alt="Gmail" width="22" height="22" src=".../icons8-gmail-32.png"/>](mailto:adarsh.jha1611@gmail.com) 
 
 <link type="image/png" sizes="32x32" rel="icon" href=".../icons8-gmail-32.png">
 
