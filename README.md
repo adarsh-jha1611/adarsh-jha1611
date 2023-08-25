@@ -46,7 +46,7 @@
 
 
 <a href="mailto:adarsh.jha1611@gmail.com">
-  <img align="left" alt="Gmail" width="22" height="22" src=".../icons8-gmail-32.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
 </a>
 
 
