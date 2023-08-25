@@ -48,6 +48,11 @@
 <a href="mailto:adarsh.jha1611@gmail.com">
   <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
 </a>
+<a href="https://twitter.com/@AdarshJ25972196">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/twitterx.png" alt="twitterx"/>
+</a>
+
+
 
 
 
