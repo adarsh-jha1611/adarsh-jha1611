@@ -38,13 +38,16 @@
 </p>
 
 
-## Connect with me: [<img align="left" alt="Gmail" width="22" height="22" src=".../icons8-gmail-32.png"/>](mailto:adarsh.jha1611@gmail.com) 
+## Connect with me:  
 
 <link type="image/png" sizes="32x32" rel="icon" href=".../icons8-gmail-32.png">
 
 [Twitter/Adarsh Jha](https://twitter.com/@AdarshJ25972196) &bullet; [LinkedIn/Adarsh](https://www.linkedin.com/in/adarsh-jha-2213601ab/) &bullet; [Instagram/Adarsh Jha](https://www.instagram.com/adarsh_jha1611/) &bullet; [Website/adarshjha.com](https://adarsh-portfolio.pages.dev/)
 
 
+<a href="mailto:adarsh.jha1611@gmail.com">
+  <img align="left" alt="Gmail" width="22" height="22" src=".../icons8-gmail-32.png"/>
+</a>
 
 
 
