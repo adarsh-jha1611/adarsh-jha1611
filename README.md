@@ -57,14 +57,6 @@
 
 ## Leetcode
 ![LeetCode Stats](https://leetcode.card.workers.dev/adarsh_jha1611?theme=dark&font=baloo&extension=activity)
-<br/>
-<p align="center">
-    
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=adarsh_jha1611&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-  
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh_jha1611&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />   
-  
-</p>
 
 
 
