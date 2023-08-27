@@ -11,7 +11,6 @@
   </span>
 </p>
 
-
 ## Connect with me:  
 
 <a href="mailto:adarsh.jha1611@gmail.com">
