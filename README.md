@@ -43,12 +43,14 @@
 ## GitHub Stats :
 
 <p align="center">
+    
   ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh-jha1611&count_private=true&show_icons=true&theme=vision-friendly-dark&line_height=40)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-jha1611&hide=html,css&theme=vision-friendly-dark&count_private=true&line_height=40)
 
 </p>
 
 <p align = "center">
+    
 [![Adarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adarsh-jha1611&bg_color=000000&color=00FF00&line=39FF14&point=00FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
@@ -57,8 +59,11 @@
 ![LeetCode Stats](https://leetcode.card.workers.dev/adarsh_jha1611?theme=dark&font=baloo&extension=activity)
 <br/>
 <p align="center">
+    
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=adarsh_jha1611&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh_jha1611&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />   
+  
 </p>
 
 
