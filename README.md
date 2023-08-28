@@ -46,12 +46,22 @@
 
 ## GitHub Stats :
 
-<p align="right">
+<p align="center">
     
   ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh-jha1611&count_private=true&show_icons=true&theme=vision-friendly-dark&line_height=40)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-jha1611&hide=html,css&theme=vision-friendly-dark&count_private=true&line_height=40)
 
 </p>
+
+## GitHub Stats and Top Languages:
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=adarsh-jha1611&count_private=true&show_icons=true&theme=vision-friendly-dark&line_height=40" alt="Adarsh's GitHub stats" style="vertical-align: top; margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-jha1611&hide=html,css&theme=vision-friendly-dark&count_private=true&line_height=40" alt="Top Langs" style="vertical-align: top; margin: 10px;">
+
+</p>
+
 
 <p align = "center">
     
