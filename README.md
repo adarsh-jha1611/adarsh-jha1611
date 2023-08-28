@@ -13,19 +13,19 @@
 
 ## Connect with me:  
 
-<a href="mailto:adarsh.jha1611@gmail.com">
+<a href="mailto:adarsh.jha1611@gmail.com" >
   <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
 </a>
-<a href="https://www.linkedin.com/in/adarsh-jha-2213601ab/">
+<a href="https://www.linkedin.com/in/adarsh-jha-2213601ab/" target="blank">
   <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
 </a>
-<a href="https://leetcode.com/adarsh_jha1611/">
+<a href="https://leetcode.com/adarsh_jha1611/" target="blank">
   <img width="48" height="48" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>
 </a>
-<a href="https://www.instagram.com/adarsh_jha1611/">
+<a href="https://www.instagram.com/adarsh_jha1611/" target="blank">
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
 </a>
-<a href="https://twitter.com/@AdarshJ25972196">
+<a href="https://twitter.com/@AdarshJ25972196" target="blank">
   <img width="48" height="48" src="https://img.icons8.com/color/48/twitterx.png" alt="twitterx"/>
 </a>
 
