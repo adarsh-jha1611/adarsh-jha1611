@@ -46,7 +46,7 @@
 
 ## GitHub Stats :
 
-<p align="center">
+<p align="right">
     
   ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh-jha1611&count_private=true&show_icons=true&theme=vision-friendly-dark&line_height=40)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-jha1611&hide=html,css&theme=vision-friendly-dark&count_private=true&line_height=40)
