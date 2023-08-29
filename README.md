@@ -70,11 +70,7 @@
 
 
 <p align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh-jha1611
-" alt="Adarsh's GitHub stats" style="vertical-align: top; margin: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-jha1611&hide=html,css&theme=vision-friendly-dark&count_private=true&line_height=40" alt="Top Langs" style="vertical-align: top; margin: 10px;">
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh-jha1611&theme=default" alt="Adarsh's GitHub stats" style="vertical-align: top; margin: 10px;">
 </p>
 
 
