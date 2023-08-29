@@ -46,7 +46,7 @@
 ## Github Streak :
 
 <p align = "center">
-  <img src = "https://streak-stats.demolab.com?user=adarsh-jha1611&theme=dark">
+  <img src = "https://streak-stats.demolab.com?user=adarsh-jha1611&theme=dracula">
 </p>
 
 ## GitHub Stats and Top Languages:
@@ -57,6 +57,7 @@
 </p>
 
 <p align = "center">
+    
 [![Adarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adarsh-jha1611&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 <p align="center">
