@@ -48,29 +48,19 @@
 <p align = "center">
   <img src = "https://streak-stats.demolab.com?user=adarsh-jha1611&theme=dark">
 </p>
-
 ## GitHub Stats and Top Languages:
-
 <p align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=adarsh-jha1611&count_private=true&show_icons=true&theme=vision-friendly-dark&line_height=40" alt="Adarsh's GitHub stats" style="vertical-align: top; margin: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-jha1611&hide=html,css&theme=vision-friendly-dark&count_private=true&line_height=40" alt="Top Langs" style="vertical-align: top; margin: 10px;">
 
 </p>
 
-
 <p align = "center">
     
 [![Adarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adarsh-jha1611&bg_color=000000&color=00FF00&line=39FF14&point=00FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </p>
-
-## Leetcode :
-![LeetCode Stats](https://leetcode.card.workers.dev/adarsh_jha1611?theme=dark&font=baloo&extension=activity)
-
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh-jha1611&theme=default" alt="Adarsh's GitHub stats" style="vertical-align: top; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh-jha1611&theme=dracula" alt="Adarsh's GitHub stats" style="vertical-align: top; margin: 10px;">
 </p>
 
 
