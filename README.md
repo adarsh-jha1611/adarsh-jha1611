@@ -5,7 +5,7 @@
 - A final-year computer science student at VIT 🎓, who is interested about creating websites that are both functional and appealing to the eye. 
 - Aspiring SDE | Full Stack Developer | AWS - Cloud Practitioner 
 
-<p align="center">
+<p align="center"> 
     Visitors count<br>
     <img src="https://profile-counter.glitch.me/adarsh-jha1611/count.svg" />
   </span>
