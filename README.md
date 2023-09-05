@@ -6,7 +6,7 @@
 - Aspiring SDE | Full Stack Developer | AWS - Cloud Practitioner 
 
 <p align="center"> 
-    Visitors count<br>
+    Visitors count<br>   
     <img src="https://profile-counter.glitch.me/adarsh-jha1611/count.svg" />
   </span>
 </p>
