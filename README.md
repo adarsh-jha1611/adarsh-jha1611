@@ -9,7 +9,7 @@
     Visitors count<br>   
     <img src="https://profile-counter.glitch.me/adarsh-jha1611/count.svg" />
   </span>
-</p>
+</p> 
 
 ## Connect with me:  
 
